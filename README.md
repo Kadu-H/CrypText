@@ -5,7 +5,7 @@ O programa consegue criptografar e descriptografar textos, a partir de uma chave
 
 ## Download
 O download está disponível apenas para Windows:
-[Download Windows](https://www.mediafire.com/file/gzon6xmrr7kb3az/KduNote.zip/file)
+[Download Windows](https://www.mediafire.com/file/cf5dfoevrp9hslw/CrypText.zip/file)
 
 ## Como executar:
 1- Faça o download do arquivo zip.
